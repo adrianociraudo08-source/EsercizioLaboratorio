@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
 public class Main
 {
     public static void main(String[] args) 
@@ -41,8 +42,10 @@ public class Main
                 }
                 else
                 {
-                    System.err.println("Il prodotto è esaurito");
-                }        
+
+                }    
+                       
+                       
             }
 
         }
