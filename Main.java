@@ -42,7 +42,7 @@ public class Main
                 }
                 else
                 {
-
+                        System.err.println("Prodotto esaurito");
                 }    
                        
                        
